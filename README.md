@@ -34,6 +34,14 @@ https://raw.githubusercontent.com/GraysonSmith/icon-assets/main/mihomo/Github.pn
 - 优先使用带透明背景的 PNG 或 SVG 格式。
 - 替换已有文件前确认其是否已被其他项目引用。
 
+## 图标来源
+
+| 文件 | 用途 | 规格 | 来源 |
+| --- | --- | --- | --- |
+| [mihomo/DomesticMedia.png](mihomo/DomesticMedia.png) | 国内媒体策略组 | 144×144，透明背景 PNG | [Koolson/Qure · DomesticMedia](https://github.com/Koolson/Qure/blob/8a8c6aa6ddda48f0f0bd560f2f024a8cf636d73b/IconSet/Color/DomesticMedia.png) |
+
+`DomesticMedia.png` 保留上游原文件，与现有 `Proxy.png` 来自同一套 Qure Color 图标集。转载时请保留出处，并遵循 [Qure 项目说明](https://github.com/Koolson/Qure#补充说明)中的学习参考及非商业用途要求。
+
 ## 说明
 
 仓库中的图标可能来自不同项目或品牌，仅用于相关项目配置及个人素材整理。图标及品牌权利归各自权利人所有。
